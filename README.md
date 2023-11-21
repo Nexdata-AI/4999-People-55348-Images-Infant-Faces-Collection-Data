@@ -29,4 +29,4 @@ the image data format is .jpg
 the accuracy exceeds 97% based on the gender and age
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
