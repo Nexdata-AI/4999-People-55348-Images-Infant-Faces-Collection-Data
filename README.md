@@ -4,7 +4,7 @@
 ## Description
 4,999 People 55,348 Images Infant Faces Collection Data. The data includes indoor and outdoor scenes, at least two backgrounds for each person. The dataset includes boys and girls (Asian). The data diversity includes multiple scenes, multiple ages, multiple angles, multiple light conditions. This data can be used for tasks such as infants face recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1035?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 ## Data size
